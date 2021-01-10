@@ -1,0 +1,1 @@
+# useless-first-discord-bot
