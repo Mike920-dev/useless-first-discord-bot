@@ -5,3 +5,4 @@
 3. !ban you can ban mentioned user @username
 4. !kick you can kick mentioned user @username
 5. !unban you can unban mentioned user User Name#1234
+6. !clear (number) you can delete messages on your server
